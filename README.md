@@ -1,4 +1,5 @@
 # calc
+Калькулятор на Vue.js
 
 ## Project setup
 ```
